@@ -45,7 +45,7 @@ jobs:
 
     # Alternative: Using sonar-scanner directly
     # - name: Install SonarScanner
-    #   run: |
+    #   run: |  
     #     dotnet tool install --global dotnet-sonarscanner
     #
     # - name: Run SonarScanner
